@@ -1,2 +1,2 @@
 # Main
-https://lsip.work
+www.lsip.work
